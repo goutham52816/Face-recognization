@@ -1,13 +1,13 @@
 # Face-recognization
 We  created this project using a Conventional Neural network (CNN) by OpenCV (Computer Vision)
 
-## Make Sure Python, MYSQL, and its lib are installed on your machine 
+#Make Sure Python, MYSQL, and its lib are installed on your machine 
 
 Create a Folder[Name] and make sure all these python and haar_cascade files  are in it
 Create a new folder called datasets in the same Folder[Name]
 
 
-#### SQL QUERY 
+# SQL QUERY 
 
 create database students;
 use  students;
